@@ -1,19 +1,13 @@
-@def title = "Franklin Example"
-@def tags = ["syntax", "code"]
+@def title = "홈 트레이닝"
+@def tags = ["홈트", "운동"]
 
-# How to use Franklin
+# 우리 가족 홈 트레이닝
 
 \tableofcontents <!-- you can use \toc as well -->
 
-This section is meant as a refresher if you're new to Franklin.
-Have a look at both how the website renders and the corresponding markdown (`index.md`).
-Modify at will to get a feeling for how things work!
+2024년부터 시행된 가족 홈 트레이닝 대회는 꾸준한 운동을 통해 가족 모두의 건강을 향상시키는 것을 목표로 하고 있습니다.
 
-Ps: if you want to modify the header or footer or the general look of the website, adjust the files in
-* `src/_css/` and
-* `src/_html_parts/`.
-
-## The base with Markdown
+## 참가자
 
 The [standard markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) can be used such as titles using `#`, lists:
 

@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Septimia Zenobia"
+author = "Manho Joung"
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -17,9 +17,9 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_title = "우리 가족 사이트"
+website_descr = "우리 가족을 위한 웹사이트 입니다."
+website_url   = "https://MamboFamily.github.io/"
 +++
 
 <!--
