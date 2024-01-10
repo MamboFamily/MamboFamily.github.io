@@ -6,7 +6,8 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: rgb(var(--bs-tertiary-color-rgb));
-    font-family: -apple-system, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-family: -apple-system, "Poor Story", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 130%;
   }
   
   /* CUSTOMIZE THE CAROUSEL
@@ -177,21 +178,25 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000;
   line-height: 1.2;
   margin-bottom: 0.75rem;
   margin-top: 0;
 }
 
-h1 a { color: #1c1c1c !important; }
-h2 a { color: #1c1c1c !important; }
-h3 a { color: #1c1c1c !important; }
+h2 { padding-top: 1em;
+     padding-bottom: 0.5em; 
+     font-weight: bold;
+}
+
+h1 a { color: darkslategrey !important; }
+h2 a { color: cadetblue !important; }
+h3 a { color: cadetblue !important; }
 h4 a { color: #1c1c1c !important; }
 h5 a { color: #1c1c1c !important; }
 
-h1 a:visited { color: #1c1c1c !important; }
-h2 a:visited { color: #1c1c1c !important; }
-h3 a:visited { color: #1c1c1c !important; }
+h1 a:visited { color: darkslategray !important; }
+h2 a:visited { color: cadetblue !important; }
+h3 a:visited { color: cadetblue !important; }
 h4 a:visited { color: #1c1c1c !important; }
 h5 a:visited { color: #1c1c1c !important; }
 
@@ -226,9 +231,11 @@ h5 a:visited { color: #1c1c1c !important; }
 ================================================================== */
 
 .franklin-content h1 {
-  padding-bottom: 0.5em;
-  margin-top: 1.5em;
-  margin-bottom: 1em;
+  padding-bottom: 0em;
+  margin-top: 0.5em;
+  margin-bottom: 0.1em;
+  font-size: 300%;
+  font-weight: 700;
 }
 
 .franklin-content a {

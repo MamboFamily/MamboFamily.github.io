@@ -1,21 +1,43 @@
-@def title = "홈 트레이닝"
-@def tags = ["홈트", "운동"]
+@def title = "가족 이벤트"
+@def tags = ["이벤트", "생일", "기념일"]
 
-# 우리 가족 홈 트레이닝
-
-2024년부터 시행된 가족 홈 트레이닝 대회는 꾸준한 운동을 통해 가족 모두의 건강을 향상시키는 것을 목표로 하고 있습니다. 
-가족들의 지속적이고 적극적인 참여를 고취하기 위하여, 점수제를 도입하여 상금을 획득하고 최하위 벌칙을 피하는 것을 목적으로 경쟁하는 대회의 형식으로 진행 중 입니다.
-
+# 가족 이벤트
 
 \tableofcontents <!-- you can use \toc as well -->
 
 
-## 역대 대회
 
-### 2024년 1월
+## 이벤트 달력
+~~~
+<div class="row">
+  <div class="container">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSeoul&src=bWFtYm9mYW1pbHkyMDI0QGdtYWlsLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=YzJjNTE0ODZmYmVmZDdmNDNjOTgyMmMyMjUxNDNkOTQyMjdhMzM4ZmVmMTFiYTljMmE1ZWJiZGUwZjU2Mzk0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%23009688&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+~~~
 
-첫 가족 홈 트레이닝 대회로서 2024년 1월 1일부터 2024년 1월 31일까지 진행될 예정입니다.
-자세한 내용은 [2024년 1월 홈 트레이닝](/home_training/202401)에서 확인하세요.
+## 역대 이벤트
+
+* element with **bold**
+* element with _emph_
+
+or code-blocks `inline` or with highlighting (note the `@def hascode = true` in the source to allow [highlight.js](https://highlightjs.org/) to do its job):
+
+```julia
+abstract type Point end
+struct PointR2{T<:Real} <: Point
+    x::T
+    y::T
+end
+struct PointR3{T<:Real} <: Point
+    x::T
+    y::T
+    z::T
+end
+function len(p::T) where T<:Point
+  sqrt(sum(getfield(p, η)^2 for η ∈ fieldnames(T)))
+end
+```
 
 You can also quote stuff
 
@@ -164,5 +186,3 @@ Last modified: {{ fill fd_mtime }}.
 This dictionary of variables is accessed locally by pages through `@def varname = value` and globally through the `config.md` page via the same syntax.
 
 There's a few other such functions of the form `{{fname p₁ p₂}}` as well as support for conditional blocks. If you wander through the `src/_html_parts/` folder and its content, you should be able to see those in action.
-
-{{ addcomments }}
