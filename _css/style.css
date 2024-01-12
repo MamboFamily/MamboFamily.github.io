@@ -234,7 +234,7 @@ h5 a:visited { color: #1c1c1c !important; }
   padding-bottom: 0em;
   margin-top: 0.5em;
   margin-bottom: 0.1em;
-  font-size: 300%;
+  font-size: 200%;
   font-weight: 700;
 }
 
@@ -305,3 +305,15 @@ h5 a:visited { color: #1c1c1c !important; }
 .copyright a:visited { text-decoration: none; }
 .copyright a:hover { text-decoration: none; }
 .copyright a:active { text-decoration: none; }
+
+
+/* =========================================================================
+    Image
+==========================================================================*/
+
+.franklin-content .img-left img {
+   float: left;
+   margin-right: 15px;
+   width: 10%;
+}
+  
