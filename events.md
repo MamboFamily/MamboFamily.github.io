@@ -24,7 +24,7 @@
 @@container
 @@img-left ![](/assets/images/Family.jpg) @@
 @@
-2023년 12월 23일 수아네 집에서 함께 한 멋진 크리스마스 파티!
+2023년 12월 23일 정규와 수아의 보금자리에서 함께 한 멋진 크리스마스 파티!
 자세한 내용은 [2023년 크리스마스 파티](/events/2023/christmas_party/)에서 확인하세요.
 ~~~
 <div style="clear: both"></div>
