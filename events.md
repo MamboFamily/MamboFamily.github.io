@@ -7,18 +7,16 @@
 
 
 
-## 이벤트 달력
+## 가족 행사 달력
 ~~~
     <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=bWFtYm9mYW1pbHkyMDI0QGdtYWlsLmNvbQ&color=%23039BE5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 ~~~
 
-## 역대 이벤트
+## 주요 가족 행사
 
 ### 2023년
 
 #### 크리스마스 파티
-
-   
 
 @@row
 @@container
@@ -30,6 +28,8 @@
 <div style="clear: both"></div>
 ~~~
 @@
+
+### 2024년
 
 ## 댓글남기기
 
