@@ -1,7 +1,7 @@
-@def title = "가족 이벤트"
-@def tags = ["이벤트", "생일", "기념일"]
+@def title = "가족 행사"
+@def tags = ["이벤트", "생일", "기념일", "행사"]
 
-# 가족 이벤트
+# 가족 행사
 
 \tableofcontents <!-- you can use \toc as well -->
 
@@ -31,13 +31,13 @@
 ~~~
 @@
 
-## 코멘트
+## 댓글남기기
 
-코멘트가 있으시면 아래에 남겨 주세요. github 아이디가 없으시면 아래의 정보를 이용하세요.
+남기고 싶으신 이야기가 있으시면 아래에 자유롭게 남겨 주세요. github 아이디가 없으시면 아래의 정보를 이용하세요.
 
 * github 아이디: FamilyComments
 * password: Comm3nt!
 
-이메일로 의견을 남기시려면 [MamboFamily@google.com](mailto:MamboFamily@google.com)로 이메일을 보내주셔도 좋습니다.
+이메일로 의견을 남기시려면 [MamboFamily2024@gmail.com](mailto:MamboFamily2024@gmail.com)로 이메일을 보내주셔도 좋습니다.
 
 {{ addcomments }}
