@@ -20,7 +20,7 @@ end
 
 Add a comment widget, managed by utterances <https://utteranc.es>.
 """
-function hfun_addcomments()
+function hfun_addcomments_old()
     html_str = """
         <script src="https://utteranc.es/client.js"
             repo="MamboFamily/MamboFamily.github.io"
@@ -33,3 +33,25 @@ function hfun_addcomments()
     """
     return html_str
 end
+
+function hfun_addcomments()
+  html_str = """
+        <script src="https://giscus.app/client.js"
+          data-repo="MamboFamily/MamboFamily.github.io"
+          data-repo-id="R_kgDOLA6T0A"
+          data-category-id="DIC_kwDOLA6T0M4Ccjce"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="top"
+          data-theme="light_protanopia"
+          data-lang="ko"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+        </script>
+    """
+    return html_str
+    
+  end
