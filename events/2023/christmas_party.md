@@ -32,6 +32,20 @@
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="/assets/images/events/2023/jungkyu_manito_gift1.jpg">
+    <img src="/assets/images/events/2023/jungkyu_manito_gift1.jpg" alt="김정규님의 마니또 선물 1" width="600" height="400">
+  </a>
+  <div class="desc">김정규님의 마니또 선물이 마음에 꼭 든 윤선욱님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/events/2023/jungkyu_manito_gift2.jpg">
+    <img src="/assets/images/events/2023/jungkyu_manito_gift2.jpg" alt="김정규님의 마니또 선물 2" width="600" height="400">
+  </a>
+  <div class="desc">김정규님의 마니또 선물이 마음에 꼭 든 정진호님</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="/assets/images/events/2023/tea_party.jpg">
     <img src="/assets/images/events/2023/tea_party.jpg" alt="즐거운 다과회" width="600" height="400">
   </a>

@@ -14,6 +14,10 @@
 ### 2024년
 
 \tableinput{}{/assets/misc/story/2024/message_board_2024.csv}
+\\
+~~~
+<p style="text-align: right;"><a class="btn btn-lg btn-primary" style="font-size: small; font-weight:bold;" href="mailto:MamboFamily2024@gmail.com">이메일로 게시글 보내기</a></p>
+~~~
 
 ## 댓글남기기
 
