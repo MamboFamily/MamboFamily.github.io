@@ -386,3 +386,10 @@ th {
 .text-right {
   text-align: right;
 }
+
+.image-center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
