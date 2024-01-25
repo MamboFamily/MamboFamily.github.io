@@ -13,7 +13,7 @@
 ## 게시판
 ### 2024년
 
-**게시판에 첫 글을 올리는 영광을 차지하세요!**
+\tableinput{}{/assets/misc/story/2024/message_board_2024.csv}
 
 ## 댓글남기기
 
@@ -25,5 +25,3 @@
 이메일로 의견을 남기시려면 [MamboFamily2024@gmail.com](mailto:MamboFamily2024@gmail.com)로 이메일을 보내주세요.
 
 {{ addcomments }}
-
-{{ addcomments1 }}

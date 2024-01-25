@@ -367,3 +367,8 @@ th {
   background-color: #04AA6D;
   color: white;
 }
+
+.message-date-author {
+  text-align: right;
+  font-size: small;
+}
