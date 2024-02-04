@@ -14,6 +14,7 @@
 건강 증진을 위해 알아두면 좋을 내용들을 정리해 보고자 합니다.
 
 1. [콜레스테롤 수치 이해하기](/column/health/cholesterol/) - 정만호
+1. [고혈압에 가장 좋은 운동은?](/column/health/highBloodPressureExercise/) - 정만호
 
 ## 댓글남기기
 
