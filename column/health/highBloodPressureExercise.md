@@ -120,7 +120,7 @@ interval training), 그리고 IET는 등압 운동 (isometric exercise training)
 
 [^1]: [고혈압 환자의 운동요법](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5303#:~:text=%EA%B3%A0%ED%98%88%EC%95%95%20%ED%99%98%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94%20%EA%B1%B7%EA%B8%B0%2C%20%EC%A1%B0%EA%B9%85,%EC%9D%98%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%ED%98%B8%EC%A0%84%EC%8B%9C%ED%82%B5%EB%8B%88%EB%8B%A4.), *질병관리청 국가건강정보포털*, 2024년 2월 3일 자료
 
-[^2]: EEdwards, Jamie J et al. “[Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials.](https://pubmed.ncbi.nlm.nih.gov/37491419/)” *British journal of sports medicine* vol. 57,20 (2023): 1317-1326. doi:10.1136/bjsports-2022-106503
+[^2]: Edwards, Jamie J et al. “[Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials.](https://pubmed.ncbi.nlm.nih.gov/37491419/)” *British journal of sports medicine* vol. 57,20 (2023): 1317-1326. doi:10.1136/bjsports-2022-106503
 
 [^3]: [A Simple 14-Minute Workout That Could Lower Your Blood Pressure](https://www.nytimes.com/2023/07/26/well/blood-pressure-workout-wall-squat.html) By Dani Blum, The New York Times, July 31, 2023
 
