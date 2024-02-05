@@ -110,6 +110,25 @@ interval training), 그리고 IET는 등압 운동 (isometric exercise training)
 이 연구를 지휘한 에드워즈 박사가 제시하는 주목할 만한 이론은 근육을 움직이지 않고 수축시킬 때 주변 혈관이 수축하고, 그 후에 운동 동작이 풀릴 때 혈액이 다시 혈관으로 흘러들어 오게 되는데, 이러한 현상이 혈관을 확장 혹은 팽창시킨다는 것입니다 [^3] . 
 이는 달리기와 같은 동적 운동을 할 때에는 발생하지 않는 현상으로, 등압 운동을 자주 수행할 때만 나타나는 것이죠.
 
+## 저혈압과 운동과의 관계
+본 글을 쓴 후 저혈압과 벽스퀏 운동과의 관계에 대한 질문이 있었습니다.
+답변을 위해 몇가지 찾아본 정보를 적어 보겠습니다.
+
+### 학술 연구
+지금까지 운동과 혈압 관리의 관계에 대한 대부분의 연구는 운동이 고혈압에 미치는 효과에 중점을 두고 있으며, 운동이 저혈압 관리에 미치는 영향은 깊게 연구되지 않은 주제입니다.
+저혈압과 운동과의 관계에 대한 연구의 대부분은 운동 후 발생하는 저혈압에 대한 연구로 보이고 학술 연구로는 질문에 대답할 수 있는 정보를 찾지 못하였습니다.
+
+### 인터넷 자료
+몇몇 인터넷 페이지에서 관련된 정보들이 있었습니다.
+그 중 정보의 신뢰도를 고려하여, 의사에게 리뷰를 받은 내용을 정리하면 다음과 같습니다 [^4] .
+~~~
+<blockquote cite="https://www.healthline.com/health/blood-pressure-after-exercise">
+  운동은 혈압 저하를 치료하는 데 도움이 되며 혈액 순환을 개선하는 데 도움이 될 수 있습니다.
+  주의해야 할 점은 자세의 급격한 변화를 동반하는 운동으로 인한 어지러움 및 메스꺼움과 같은 증상입니다.
+  따라서, 만약 저혈압이 있다면, 자세의 급격한 변화를 포함하지 않는 운동을 선택하는 것이 좋겠습니다. 
+</blockquote>
+~~~
+
 ## 맺음말
 
 이번 건강 검진 결과 저도 살짝 고혈압인 것으로 나왔습니다. :disappointed:
@@ -123,6 +142,8 @@ interval training), 그리고 IET는 등압 운동 (isometric exercise training)
 [^2]: Edwards, Jamie J et al. “[Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials.](https://pubmed.ncbi.nlm.nih.gov/37491419/)” *British journal of sports medicine* vol. 57,20 (2023): 1317-1326. doi:10.1136/bjsports-2022-106503
 
 [^3]: [A Simple 14-Minute Workout That Could Lower Your Blood Pressure](https://www.nytimes.com/2023/07/26/well/blood-pressure-workout-wall-squat.html) By Dani Blum, The New York Times, July 31, 2023
+
+[^4]: [How Does Exercise Affect Blood Pressure?](https://www.healthline.com/health/blood-pressure-after-exercise), Medically reviewed by Deborah Weatherspoon, Ph.D., MSN — By Carly Vandergriendt — Updated on February 10, 2023
 
 ## 댓글남기기
 
