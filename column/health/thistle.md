@@ -45,6 +45,7 @@
 @@image-center
 ![](/assets/images/column/health/korean6Thistles.jpg)
 @@
+\\
 @@image-caption
 국내 자생 엉겅퀴 6종의 사진 [^2]
 @@
@@ -57,9 +58,9 @@
 자, 그럼 우리의 '까시 까시'도 살펴본 목록 중 하나일까요?
 박선영님이 '*서양가시엉겅퀴 효능과 부작용, 주의사항*' [^3] 이란 제목의 블로그를 제보해 주십니다.
 서양가시엉겅퀴는 국가식물표본에도 등록되어 있군요.
-내용과 사진을 훑어보니 집 뒷마당 엉겅퀴인 듯도 싶습니다.
+내용과 사진을 훑어보니 이 녀석이야 말로 집 뒷마당 '까시 까시'인 것 같습니다.
 
-서양가시엉겅퀴의 학명은 *Cirsium vulgare* 인데, 미국에서는 흔히 *Bull Thistle*, 혹은 *Sphear Thistle* 이라고 불리우고 있습니다.
+서양가시엉겅퀴의 학명은 *Cirsium vulgare* 인데, 미국에서는 흔히 *불 씨슬 - Bull Thistle*, 혹은 *스피어 씨슬 - Sphear Thistle* 이라고 불리우고 있습니다.
 서양가시엉겅퀴의 특징은 다음과 같습니다.
 * 가지가 많고 직립하는 2년생 식물로, 키는 60 ~ 180 cm 정도입니다.
 * 1년차에는 로젯(잎이 벌어져 있는 모습)을 형성하고, 2년차에는 개화 줄기를 형성합니다.
@@ -99,6 +100,42 @@
 @@
 \\
 
+당장 집 뒤로 나가서 까시 까시를 살펴 봅니다.
+아직 자라지 않아 꽃이나 큰 줄기를 볼 순 없지만 잎을 비교하니 맞는 것 같습니다.
+조금 더 찾아보니 웹에서 찾은 사진과 흡사한 로젯들을 발견했습니다.
+서양가시엉겅퀴가 거의 확실한 것 같군요.
+까시 까시는 바로 **서양가시엉겅퀴**였습니다.
+
+## 서양가시엉겅퀴의 복용과 효능
+이제 정체를 파악했으니 먹어도 되는 것인지 알아봐야 겠군요.
+다행히도 엉겅퀴 종의 대부분은 먹을 수 있다고 하고, 서양가시엉겅퀴는 여러 웹페이지에서 식용으로 나와 있습니다.
+특히, 2018년 4월에 개정된 North Dakota State University의 "The Thistles of North Dakota" [^4] 에 식용 식물로 언급되어 있군요.
+서양가시엉겅퀴는 뿌리부터 꽃까지 식물의 거의 전부를 먹을 수 있다고 합니다.
+좋군요. :+1:
+
+먹을 수 있는 것은 확인하였고, 과연 그 효능이 무엇인지가 궁금합니다.
+정보를 모아보니 그 효능이 참으로 대단합니다.
+하나 하나 살펴볼까요?
+
+* **간 보호**\\
+  서양가시엉겅퀴는 간을 손상으로부터 보호하는 효능이 있다고 여겨지며, 간 건강을 지원하고 해독을 촉진할 수 있습니다.
+* **항염증 (anti-inflammatory) 효과**\\
+  일부 연구에 따르면 서양가시엉겅퀴는 항염증 효과가 있을 수 있으며, 이는 신체의 염증을 줄이는 데 도움이 될 수 있습니다.
+* **항산화 (antioxidant), 항균 (antibacterial), 항진균 (antifungal) 효과**\\
+  서양가시엉겅퀴에는 페놀산 (phenolic acid) [^5], 플라보노이드 (flavonoid) 및 테르페노이드 (terpenoid) 등이 함유되어 있어 높은 항산화, 항균 및 항진균 효과가 기대됩니다 [^6].
+  한 연구에 따르면, 서양가시엉겅퀴의 꽃과 잎의 추출물이 면역력이 약한 사람들이나 기타 기저 질환을 가진 사람들에게는 감염을 일으키는 녹농균(綠膿菌, Pseudomonas aeruginosa, P. aeruginosa)과 식중독을 일으키는 황색포도상구균(Staphylococcus aureus)에 대해서 상당한 항균 효과가 있다고 하네요 [^7].
+  또한, 서양가시엉겅퀴의 항산화 효과는 여러 연구에서 확인되었습니다 [^8], [^9].
+* **소화기 건강**\\
+  서양가시엉겅퀴의 뿌리는 소화기 건강을 지원하는 이눌린이라는 종류의 섬유가 풍부합니다. 
+  이는 장 내 유익한 세균의 성장을 촉진하여 소화기 건강을 지원할 수 있습니다.
+* **피부 건강**\\
+  서양가시엉겅퀴는 피부 자극을 진정시키고 치유를 촉진하는 데 사용될 수 있습니다. 
+  피부에 유익한 항염증 및 항균 효과가 있을 수 있습니다.
+* **이뇨제**\\
+  서양가시엉겅퀴에는 이뇨 효과가 있어 소변 생성을 촉진할 수 있습니다. 
+  이는 신장 기능을 지원하고 수분 저장을 줄이는 데 도움이 될 수 있습니다.
+* **전통적 용도**\\
+  전통 의학에서는 서양가시엉겅퀴를 소화불량, 황달 및 치질의 치료에 사용해온 바 있습니다.
 
 
    
@@ -119,15 +156,18 @@
 
 [^3]: [서양가시엉겅퀴 효능과 부작용, 주의사항](https://m.blog.naver.com/dongmu61/221808634940), *네이버 블로그*, 체질박사, 2020년 2월 14일
 
-[^4]: [How Does Exercise Affect Blood Pressure?](https://www.healthline.com/health/blood-pressure-after-exercise), Medically reviewed by Deborah Weatherspoon, Ph.D., MSN — By Carly Vandergriendt — Updated on February 10, 2023
+[^4]: Rodney G. Lym, Katheryn M. Christianson, [The Thistles of North Dakota](https://www.ag.ndsu.edu/publications/crops/the-thistles-of-north-dakota/w1120.pdf), *North Dakota State University* Revised April 2018
 
-[^5]: Jari A. Laukkanen, MD, PhD; Tanjaniina Laukkanen, MSc; Setor K. Kunutsor, MD, PhD, "[Cardiovascular and Other Health Benefits of Sauna Bathing: A Review of the Evidence](https://www.mayoclinicproceedings.org/article/S0025-6196(18)30275-1/fulltext)", *Mayo Clinic Proceedings*, VOLUME 93, ISSUE 8, P1111-1121, AUGUST 2018
+[^5] Kozyra, M.; Głowniak, K., "Phenolic acids in extracts obtained from the flowering herbs of Cirsium vulgare (Savi) Ten. growing in
+Poland", *Acta Soc. Bot. Pol.* 2013, 82, 325–329
 
-[^6]: Juhani Smolander, Veikko Louhevaara, "[EFFECT OF HEAT STRESS ON SKIN AND MUSCLE BLOOD FLOW DURING DYNAMIC HAND-GRIP EXERCISE](https://pubmed.ncbi.nlm.nih.gov/1396649/)", *European Journal of Applied Physiology and Occupational Physiology* · February 1992
+[^6]: Aydın Kurç M, Orak HH, Gülen D, Caliskan H, Argon M, Sabudak T., "[Antimicrobial and Antioxidant Efficacy of the Lipophilic Extract of Cirsium vulgare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10609082/)". Molecules. 2023 Oct 19;28(20):7177. doi: 10.3390/molecules28207177. PMID: 37894654; PMCID: PMC10609082.
 
-[^7]: Devan E. Haney, Abigail Owen, Jennifer S. Fargo, Samantha N. Harrison, Margaret K. Chevalier, Christina A. Buchanan, Lance C. Dalleck, "[Health-Related Benefits of Exercise Training with a Sauna Suit](https://ijrep.org/health-related-benefits-of-exercise-training-with-a-sauna-suit-a-randomized-controlled-trial/)", *International Journal of Research in Exercise Physiology* - December 2017
+[^7]: Aggarwal G, Kaur G, Bhardwaj G, Mutreja V, Sohal HS, Nayik GA, Bhardwaj A, Sharma A., "[Traditional Uses, Phytochemical Composition, Pharmacological Properties, and the Biodiscovery Potential of the Genus Cirsium](https://www.mdpi.com/2624-8549/4/4/79)", *Chemistry*, 2022; 4(4):1161-1192. https://doi.org/10.3390/chemistry4040079
 
-[^8]: Ignacio Bartolomé, Jesús Siquier-Coll, Mario Pérez-Quintero, María Concepción Robles-Gil, Diego Muñoz, Marcos Maynar-Mariño, "[Effect of Handgrip Training in Extreme Heat on the Development of Handgrip Maximal Isometric Strength among Young Males](https://pubmed.ncbi.nlm.nih.gov/34069110/)", Int J Environ Res Public Health. 2021 May 14;18(10):5240. doi: 10.3390/ijerph18105240. PMID: 34069110; PMCID: PMC8156655.
+[^8]: Nazaruk, J., "Antioxidant activity and total phenolic content in Cirsium five species from north–east region of Poland", *Fitoterapia* 2008, 79, 194–196.
+
+[^9]: Lee, S.H.; Heo, S.-I.; Li, L.; Lee, M.J.; Wang, M.-H., "Antioxidant and Hepatoprotective Activities of Cirsium setidens NAKAI against CCl4-Induced Liver Damage", *Am. J. Chin. Med.* 2008, 36, 107–114.
 
 ## 댓글남기기
 
