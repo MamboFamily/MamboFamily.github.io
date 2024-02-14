@@ -36,7 +36,7 @@
 @@image-caption
 국가식물표본 엉겅퀴 검색 결과
 @@
-\tableinput{}{/assets/misc/column/health/엉겅퀴_20240210.csv}
+<!--\tableinput{}{/assets/misc/column/health/엉겅퀴_20240210.csv}-->
 
 \\
 
