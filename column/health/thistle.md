@@ -115,7 +115,7 @@
 
 [^1]: [국가표준식물목록](http://www.nature.go.kr/kpni/SubIndex.do), *국립 수목원*, 2024년 2월 10일 자료
 
-[^2]: 남승희, 이방희, 김연지, “[국내 자생 엉겅퀴 6품종의 실리마린 함량 및 간 보호 효과](https://www.etals.org/archive/view_article?pid=tals-56-0-55)” *농업생명과학연구동향*, 제56집 2018, 56:55-62
+[^2]: 남승희, 이방희, 김연지, “[국내 자생 엉겅퀴 6품종의 실리마린 함량 및 간 보호 효과](https://www.etals.org/archive/view_article?pid=tals-56-0-55)” *농업생명과학연구동향*, 제56집 2018
 
 [^3]: [서양가시엉겅퀴 효능과 부작용, 주의사항](https://m.blog.naver.com/dongmu61/221808634940), *네이버 블로그*, 체질박사, 2020년 2월 14일
 
