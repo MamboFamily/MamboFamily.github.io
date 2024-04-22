@@ -219,7 +219,7 @@ HDL 생성 및 콜레스테롤 역순환 [^4]
 콜레스테롤의 역순환은 이러한 말초조직의 콜레스테롤을 간으로 재수송하여 말초조직 세포들의 콜레스테롤 함유량을 낮출 수 있는 수단입니다.
 특히 혈관 내피 세포에 축적된 콜레스테롤을 간으로 재수송할 수 있어서 LDL로 인한 혈관 문제를 완화할 수 있습니다.
 
-## 건강진단 결과보고서 내용 이해하기
+## 건강진단 결과보고서 항목들
 건강진단 결과보고서에 여러 항목이 있습니다만, 본 칼럼의 주제인 콜레스테롤과 관련된 *지질검사 (Lipid Test), 혈관질환 위험인자 (Vascular risk factor)* 항목을 살펴 보도록 하겠습니다.
 본격적으로 검사 항목에 대한 논의를 하기 전에 먼저 콜레스테롤에 대한 조사 내용을 간단히 정리해 보도록 하죠.
 
@@ -250,7 +250,7 @@ HDL 생성 및 콜레스테롤 역순환 [^4]
 ![](/assets/images/column/health/지질검사기준표.jpg)
 @@
 @@image-caption
-지질검사 및 혈관질환 위험인자 기준표
+지질검사 기준표
 @@
 \\
 
@@ -310,6 +310,51 @@ HDL은 혈관으로부터 과다한 콜레스테롤을 제거하고 간으로 �
 * 4에서 5 사이의 여성은 심장 마비 위험이 3.5 이하의 여성보다 46% 높았습니다.
 * 5 이상의 비율을 갖는 여성은 심장 마비의 위험이 3.5 이하의 여성보다 89% 더 높았습니다.
 
+## 콜레스테롤 관리 지침
+건강진단 검사보고서의 지질검사 기준표에는 각 지질검사 항목에 대한 기준치가 표시되어 있습니다.
+이러한 기준치는 어떻게 결정되었을까요?
+
+출처를 찾아보니 한국지질·동맥경화학회 진료지침위원회가 2022년 발표하고 2023년 3월 수정한 이상지질혈증 진료지침 5판 [^7] 에 근거하고 있는 것 같습니다.
+이 진료 지침에는 지질검사 기준값 뿐만 아니라 위험도 분류에 따른 진료 지침 및 관리 사항이 서술되어 있습니다.
+진료 지침의 주요 내용을 정리해보도록 하겠습니다.
+
+### 이상지질혈증 분류 기준
+건강진단 검사보고서의 지질검사 기준표는 다음 표의 적정 혹은 정상 범위를 표시한 것임을 알 수 있습니다.
+@@image-center
+![](/assets/images/column/health/이상지질혈증분류기준.jpg)
+@@
+@@image-caption
+이상지질혈증 분류 기준
+@@
+\\
+
+### 심혈관질환 위험도 측정
+심혈관질환 위험도는 심혈관질환 위험인자들의 해당사항을 검토하여 결정됩니다.
+심혈관질환 위험인자들 중 가장 먼저 파악하는 것은 LDL 콜레스테롤 수치입니다.
+이는 LDL 콜레스테롤의 혈중 농도와 심혈관 질환의 발생률에는 양의 상관관계를 보이며, LDL 콜레스테롤을 낮춘 만큼 심혈관 질환의 발생률이 감소한다는 여러 연구결과를 따른 것입니다.
+LDL 콜레스테롤을 제외한 심혈관질환의 주요 위험인자는 다음 표와 같습니다.
+
+@@image-center
+![](/assets/images/column/health/심혈관질환위험인자.jpg)
+@@
+@@image-caption
+심혈관질환 주요 위험인자
+@@
+\\
+
+이러한 위험인자들 및 심혈관 질환 상황을 검토하여 심혈관질환 위험도는 다음과 같이 결정됩니다.
+
+* 저위험군: 해당 위험인자 수가 하나 이하
+* 중등도 위험군: 해당 위험인자 수가 둘 이상
+* 고위험군: 죽상경화성 허혈뇌졸중 및 일과성 뇌허혈발작, 경동맥질환, 말초동맥질환, 복부대동맥류가 있는 경우
+* 초고위험군: 이미 관상동맥질환이 있는 경우 심혈관질환이 재발할 가능성이 매우 높아 초고위험군으로 분류
+
+### 심혈관질환 위험도에 따른 진료 지침
+* 저위험군\\저위험군은 LDL 콜레스테롤이 160 mg/dL 이상이면 스타틴으로 치료를 시작합니다. 
+* 중등도 위험군\\중등도 위험군은 LDL콜레스테롤이 130 mg/dL 이상이면 스타틴으로 치료를 시작합니다. 위험인자가 많을 경우 LDL 콜레스테롤 100~129 mg/dL에서도 스타틴 사용을 고려할 수 있습니다. 저위험군 또는 중등도 위험군에서 수주 또는 수 개월간 치료적 생활습관 개선 노력에도 LDL 콜레스테롤 수치가 치료 기준치 이상으로 높게 유지되면 약물치료를 시작합니다.
+* 고위험군\\고위험군은 LDL콜레스테롤 70 mg/dL 미만 또는 기저치 대비 50% 이상 감소를 목표로 철저히 조절해야 합니다.
+* 초고위험군\\초고위험군은 LDL콜레스테롤 55 mg/dL 미만 또는 기저치 대비 50% 이상 감소를 목표로 철저히 조절해야 합니다. 약물 치료로는 복용할 수 있는 최대 용량의 스타틴을 우선 사용합니다.
+
 
 
 ## 참고 자료
@@ -320,6 +365,7 @@ HDL은 혈관으로부터 과다한 콜레스테롤을 제거하고 간으로 �
 [^4]: Marques Leandro R. , Diniz Tiego A. , Antunes Barbara M. , Rossi Fabrício E. , Caperuto Erico C. , Lira Fábio S. , Gonçalves Daniela C., "[Reverse Cholesterol Transport: Molecular Mechanisms and the Non-medical Approach to Enhance HDL Cholesterol](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00526/full)", *Frontiers in Physiology*, 2018 
 [^5]: Otvos JD, Mora S, Shalaurova I, Greenland P, Mackey RH, Goff DC Jr. [Clinical implications of discordance between low-density lipoprotein cholesterol and particle number](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3070150/). J Clin Lipidol. 2011 Mar-Apr;5(2):105-13. doi: 10.1016/j.jacl.2011.02.001. PMID: 21392724; PMCID: PMC3070150.
 [^6]: Calling S, Johansson SE, Wolff M, et al. [The ratio of total cholesterol to high density lipoprotein cholesterol and myocardial infarction in women’s health in the Lund area (WHILA): a 17-year follow-up cohort study](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-019-1228-7). BMC Cardiovasc Disord. 2019;19(1):1-9. doi:10.1186/s12872-019-1228-7
+[^7]: 한국지질·동맥경화학회 진료지침위원회, "[이상지질혈증 진료지침 제5판 요약슬라이드 (국문)](https://www.lipid.or.kr/reference/guideline.php?mode=view&idx=1266)"
 
 
 ## 댓글남기기
