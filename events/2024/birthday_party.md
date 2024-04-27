@@ -16,7 +16,7 @@
 박리아님, 수고 많았습니다. :+1:
 
 ~~~
-<iframe width="656" height="369" src="https://www.youtube.com/embed/03RivQ7FuNY" title="회갑 가족 축하 메세지" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/03RivQ7FuNY" title="회갑 가족 축하 메세지" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ~~~
 
 ## 사진첩
