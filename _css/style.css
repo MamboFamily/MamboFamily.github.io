@@ -444,7 +444,7 @@ blockquote p {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 40%;
+  top: 10%;
   width: auto;
   padding: 16px;
   margin-top: -50px;
@@ -454,7 +454,6 @@ blockquote p {
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
-  background-color: lightslategrey;
 }
 
 /* Position the "next button" to the right */
