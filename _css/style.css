@@ -448,12 +448,13 @@ blockquote p {
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: brown;
+  color: white;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
+  background-color: lightslategrey;
 }
 
 /* Position the "next button" to the right */
