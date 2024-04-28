@@ -5,11 +5,13 @@
 
 \tableofcontents <!-- you can use \toc as well -->
 
-2024년 4월은 할아버지, 정은숙님, 윤선욱님, 박수아님의 생일이 몰려있던 달이었습니다. *(사실 정은숙님의 생일은 5월 2일이었습니다)* :sweat_smile:  
-특히, 정은숙님은 스무살 생일을 세번째로 맞는 회갑이었네요.
+2024년 봄 가족들의 생일이 많습니다.
+특히 할아버지, 정은숙님, 윤선욱님, 박수아님의 생일이 비슷한 시기에 있습니다. 
 
-지난 할아버지의 팔순을 특별히 축하하는 자리를 마련하지 못했던 가족들은 정은숙님의 특별한 생일에 맞춰 할아버지의 지난 팔순을 함께 축하하기로 하였습니다.
-그리하여 때는 바야흐로 2024년 4월 26일, 가족들은 가족들의 생일을 함께 축하하고 할아버지와 정은숙님의 특별한 생일을 함께 기뻐하는 자리를 마련하였습니다.
+가족들의 생일을 맞는 이번 봄은 좀 특별합니다.
+정은숙님은 스무살 생일을 세번째로 맞는 회갑이었고, 살짝(?) 지났지만 할아버지의 팔순을 이번 생신 때 축하드리기로 했기 때문입니다.
+
+그리하여 때는 바야흐로 2024년 4월 26일, 가족들은 할아버지와 정은숙님의 특별한 생일을 함께 기뻐하는 자리를 마련하였습니다.
 
 ## 정은숙님 회갑을 축하하는 가족들의 메세지
 박리아님의 주도 하에 정은숙님의 회갑을 축하하는 가족들의 메세지가 동영상으로 제작되었습니다.
@@ -26,198 +28,348 @@
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 69</div>
       <img src="/assets/images/events/2024/할아버지한복.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 69</div>
       <img src="/assets/images/events/2024/할아버지한복모자.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    <div class="numbertext">3 / 69</div>
       <img src="/assets/images/events/2024/정규수아.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext">4 / 69</div>
       <img src="/assets/images/events/2024/종보은숙.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext">5 / 69</div>
       <img src="/assets/images/events/2024/가족사진1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 7</div>
+    <div class="numbertext">6 / 69</div>
       <img src="/assets/images/events/2024/야외선욱자현.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">7 / 69</div>
       <img src="/assets/images/events/2024/은숙생일케잌.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">8 / 69</div>
       <img src="/assets/images/events/2024/선욱유리창.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">9 / 69</div>
       <img src="/assets/images/events/2024/점석은숙케잌.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">10 / 69</div>
       <img src="/assets/images/events/2024/점석은숙케잌1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">11 / 69</div>
       <img src="/assets/images/events/2024/진호자현야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">12 / 69</div>
       <img src="/assets/images/events/2024/선욱자현야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">13 / 69</div>
       <img src="/assets/images/events/2024/종보은숙정규수아리아야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">14 / 69</div>
       <img src="/assets/images/events/2024/선욱자현야외2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">15 / 69</div>
       <img src="/assets/images/events/2024/은숙야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">16 / 69</div>
       <img src="/assets/images/events/2024/점석야외.jpg" style="width:100%">
   </div>
   
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">17 / 69</div>
       <img src="/assets/images/events/2024/수아리아자현야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">18 / 69</div>
       <img src="/assets/images/events/2024/신라호텔한정식.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">19 / 69</div>
       <img src="/assets/images/events/2024/종보은숙야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">20 / 69</div>
       <img src="/assets/images/events/2024/가족사진2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">21 / 69</div>
       <img src="/assets/images/events/2024/가족사진3.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">22 / 69</div>
       <img src="/assets/images/events/2024/점석흑백.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">23 / 69</div>
       <img src="/assets/images/events/2024/은숙야외1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">24 / 69</div>
       <img src="/assets/images/events/2024/은숙정규.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">25 / 69</div>
       <img src="/assets/images/events/2024/점석꽃.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">26 / 69</div>
       <img src="/assets/images/events/2024/점석은숙야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">27 / 69</div>
       <img src="/assets/images/events/2024/선욱진호야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">28 / 69</div>
       <img src="/assets/images/events/2024/점석은숙케잌2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">29 / 69</div>
       <img src="/assets/images/events/2024/점석선욱자현야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">30 / 69</div>
       <img src="/assets/images/events/2024/생일케잌.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">31 / 69</div>
       <img src="/assets/images/events/2024/가족신라호텔.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">32 / 69</div>
       <img src="/assets/images/events/2024/가족신라호텔1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">33 / 69</div>
       <img src="/assets/images/events/2024/점석돌계단.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">34 / 69</div>
       <img src="/assets/images/events/2024/은숙야외2.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">35 / 69</div>
       <img src="/assets/images/events/2024/가족사진4.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">36 / 69</div>
       <img src="/assets/images/events/2024/종보두부야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">37 / 69</div>
       <img src="/assets/images/events/2024/가족사진5.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">38 / 69</div>
       <img src="/assets/images/events/2024/종보은숙두부야외.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">39 / 69</div>
       <img src="/assets/images/events/2024/가족신라호텔2.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">40 / 69</div>
+      <img src="/assets/images/events/2024/은숙미용실.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">41 / 69</div>
+      <img src="/assets/images/events/2024/정규두부.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">42 / 69</div>
+      <img src="/assets/images/events/2024/종보은숙식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">43 / 69</div>
+      <img src="/assets/images/events/2024/선욱진호자현식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">44 / 69</div>
+      <img src="/assets/images/events/2024/리아식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">45 / 69</div>
+      <img src="/assets/images/events/2024/자현식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">46 / 69</div>
+      <img src="/assets/images/events/2024/은숙선욱로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">47 / 69</div>
+      <img src="/assets/images/events/2024/자현로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">48 / 69</div>
+      <img src="/assets/images/events/2024/은숙선물개봉.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">49 / 69</div>
+      <img src="/assets/images/events/2024/점석종보은숙다과상.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">50 / 69</div>
+      <img src="/assets/images/events/2024/정규두부눈맞춤.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">51 / 69</div>
+      <img src="/assets/images/events/2024/점석민용리아슈퍼카.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">52 / 69</div>
+      <img src="/assets/images/events/2024/가족사진슈퍼카.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">53 / 69</div>
+      <img src="/assets/images/events/2024/점석자현드라이브.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">54 / 69</div>
+      <img src="/assets/images/events/2024/점석식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">55 / 69</div>
+      <img src="/assets/images/events/2024/정규수아식당.jpg" style="width:100%">
+  </div>
+  
+  <div class="mySlides">
+    <div class="numbertext">56 / 69</div>
+      <img src="/assets/images/events/2024/선욱로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">57 / 69</div>
+      <img src="/assets/images/events/2024/수아로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">58 / 69</div>
+      <img src="/assets/images/events/2024/선욱진호로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">59 / 69</div>
+      <img src="/assets/images/events/2024/다과상.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">60 / 69</div>
+      <img src="/assets/images/events/2024/생일선물.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">61 / 69</div>
+      <img src="/assets/images/events/2024/선욱두부.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">62 / 69</div>
+      <img src="/assets/images/events/2024/가족다과회.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">63 / 69</div>
+      <img src="/assets/images/events/2024/은숙생일케잌다과회.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">64 / 69</div>
+      <img src="/assets/images/events/2024/은숙생일케잌다과회1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">65 / 69</div>
+      <img src="/assets/images/events/2024/종보은숙정규수아다과회.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">66 / 69</div>
+      <img src="/assets/images/events/2024/진호식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">67 / 69</div>
+      <img src="/assets/images/events/2024/은숙식당.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">68 / 69</div>
+      <img src="/assets/images/events/2024/은숙정규로비.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">69 / 69</div>
+      <img src="/assets/images/events/2024/은숙로비.jpg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
@@ -348,6 +500,96 @@
     <div class="column">
       <img class="demo cursor" src="/assets/images/events/2024/가족신라호텔2.jpg" style="width:100%" onclick="currentSlide(39)" alt="신라호텔을 배경으로 한 또 다른 가족사진">
     </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙미용실.jpg" style="width:100%" onclick="currentSlide(40)" alt="미용실에서 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/정규두부.jpg" style="width:100%" onclick="currentSlide(41)" alt="지하 주차장에서 김정규님과 두부">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/종보은숙식당.jpg" style="width:100%" onclick="currentSlide(42)" alt="한식당에서 박종보님과 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/선욱진호자현식당.jpg" style="width:100%" onclick="currentSlide(43)" alt="한식당에서 윤선욱님, 정진호님, 정자현님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/리아식당.jpg" style="width:100%" onclick="currentSlide(44)" alt="한식당에서 박리아님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/자현식당.jpg" style="width:100%" onclick="currentSlide(45)" alt="한식당에서 정자현님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙선욱로비.jpg" style="width:100%" onclick="currentSlide(46)" alt="신라호텔 로비에서 정은숙님과 윤선욱님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/자현로비.jpg" style="width:100%" onclick="currentSlide(47)" alt="신라호텔 로비에서 정자현님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙선물개봉.jpg" style="width:100%" onclick="currentSlide(48)" alt="선물을 개봉하는 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/점석종보은숙다과상.jpg" style="width:100%" onclick="currentSlide(49)" alt="다과상 앞에서 할아버지, 박종보님, 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/정규두부눈맞춤.jpg" style="width:100%" onclick="currentSlide(50)" alt="두부와 눈을 맞춘 김정규님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/점석민용리아슈퍼카.jpg" style="width:100%" onclick="currentSlide(51)" alt="민용님의 슈퍼카에 만족하신 할아버지">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/가족사진슈퍼카.jpg" style="width:100%" onclick="currentSlide(52)" alt="민용님의 슈퍼카를 배경으로 가족 사진">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/점석자현드라이브.jpg" style="width:100%" onclick="currentSlide(53)" alt="정자현님과 할아버지의 즐거운 드라이브">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/점석식당.jpg" style="width:100%" onclick="currentSlide(54)" alt="한식당에서 원샷 중이신 할아버지">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/정규수아식당.jpg" style="width:100%" onclick="currentSlide(55)" alt="한식당에서 김정규님, 박수아님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/선욱로비.jpg" style="width:100%" onclick="currentSlide(56)" alt="신라호텔 로비에서 윤선욱님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/수아로비.jpg" style="width:100%" onclick="currentSlide(57)" alt="신라호텔 로비에서 박수아님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/선욱진호로비.jpg" style="width:100%" onclick="currentSlide(58)" alt="신라호텔 로비에서 윤선욱님과 정진호님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/다과상.jpg" style="width:100%" onclick="currentSlide(59)" alt="품격있는 다과상">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/생일선물.jpg" style="width:100%" onclick="currentSlide(60)" alt="엄청난 생일선물들">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/선욱두부.jpg" style="width:100%" onclick="currentSlide(61)" alt="두부를 번쩍 안으신 윤선욱님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/가족다과회.jpg" style="width:100%" onclick="currentSlide(62)" alt="다과회를 즐기는 가족들">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙생일케잌다과회.jpg" style="width:100%" onclick="currentSlide(63)" alt="점화된 생일케잌 앞에서 생일 축가를 듣고 있는 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙생일케잌다과회1.jpg" style="width:100%" onclick="currentSlide(64)" alt="생일케잌 앞에서 정은숙님의 승리포즈">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/종보은숙정규수아다과회.jpg" style="width:100%" onclick="currentSlide(65)" alt="다과회를 즐기는 박종보님, 정은숙님, 김정규님, 박수아님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/진호식당.jpg" style="width:100%" onclick="currentSlide(66)" alt="한식당에서 흑화된 정진호님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙식당.jpg" style="width:100%" onclick="currentSlide(67)" alt="한식당에 당당히 입장하시는 정은숙님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙정규로비.jpg" style="width:100%" onclick="currentSlide(68)" alt="신라호텔 로비에서 정은숙님과 김정규님">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/events/2024/은숙로비.jpg" style="width:100%" onclick="currentSlide(69)" alt="신라호텔 로비에서 정은숙님">
+    </div>
   </div>
 </div>
 
@@ -383,6 +625,65 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
+~~~
+
+## 동영상
+~~~
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/은숙선물개봉.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">선물을 개봉하는 정은숙님</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/생일축가.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">가족들의 생일 축가</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/케잌커팅.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">생일 케잌 커팅</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/선욱진호1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">윤선욱님과 정진호님의 사진 촬영 1</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/선욱진호2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">윤선욱님과 정진호님의 사진 촬영 2</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/진호자현.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">정진호님과 정자현님의 사진 촬영</div>
+</div>
+
+<div style="clear: both"></div>
 ~~~
 
 ## 댓글남기기
