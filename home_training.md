@@ -198,13 +198,6 @@ function showSlides(n) {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/assets/images/home_training/2024/feb/선영등산.jpg">
-    <img src="/assets/images/home_training/2024/feb/선영등산.jpg" alt="등산하는 박선영님" width="600" height="400">
-  </a>
-  <div class="desc">선두로 등산하는 박선영님과 맹렬히 추격하는 더스티</div>
-</div>
-
-<div class="gallery">
   <a target="_blank" href="/assets/images/home_training/2024/feb/정규플랭크.jpg">
     <img src="/assets/images/home_training/2024/feb/정규플랭크.jpg" alt="김정규님의 플랭크" width="600" height="400">
   </a>
