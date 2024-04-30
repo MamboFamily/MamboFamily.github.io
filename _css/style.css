@@ -425,7 +425,7 @@ blockquote p {
 }
 
 /* Position the image container (needed to position the left and right arrows) */
-.container {
+.slideContainer {
   position: relative;
 }
 
@@ -477,6 +477,22 @@ blockquote p {
   top: 0;
 }
 
+.darknumbertext {
+  color: darkcyan;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 /* Container for image text */
 .caption-container {
   text-align: center;
@@ -509,4 +525,33 @@ blockquote p {
 
 div.videocenter {
   text-align:center
+}
+
+/* Next & previous buttons */
+.slideprev,
+.slidenext {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: grey;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.slidenext {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.slideprev:hover,
+.slidenext:hover {
+  background-color: rgba(0, 0, 0, 0.8);
 }

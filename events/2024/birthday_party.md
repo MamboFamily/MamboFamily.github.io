@@ -24,7 +24,7 @@
 ## 사진첩
 ~~~
 <!-- Container for the image gallery -->
-<div class="container">
+<div class="slideContainer">
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
