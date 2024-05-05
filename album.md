@@ -8,6 +8,61 @@
 행복한 순간들을 담은 사진들입니다.
 
 ## 2024년
+### 4월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/할아버지종보벤치.jpg">
+    <img src="/assets/images/album/2024/할아버지종보벤치.jpg" alt="벤치에 앉아있는 할아버지와 박종보님" width="600" height="400">
+  </a>
+  <div class="desc">벤치에 앉아계신 할아버지와 박종보님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/가족부페.jpg">
+    <img src="/assets/images/album/2024/가족부페.jpg" alt="고기부페에서 가족사진" width="600" height="400">
+  </a>
+  <div class="desc">즐거운 가족 식사</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/가족식사부페1.jpg">
+    <img src="/assets/images/album/2024/가족식사부페1.jpg" alt="고기부페에서 가족사진 1" width="600" height="400">
+  </a>
+  <div class="desc">신나는 가족 식사</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/가족폭포.jpg">
+    <img src="/assets/images/album/2024/가족폭포.jpg" alt="폭포 앞에서 가족사진" width="600" height="400">
+  </a>
+  <div class="desc">멋진 폭포 앞에서</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/폭포건배.jpg">
+    <img src="/assets/images/album/2024/폭포건배.jpg" alt="폭포 앞에서 음료" width="600" height="400">
+  </a>
+  <div class="desc">멋진 폭포 앞에서 음료 한 잔</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+
+
+### 3월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/정규옷선물.jpg">
+    <img src="/assets/images/album/2024/정규옷선물.jpg" alt="정규 옷 선물" width="600" height="400">
+  </a>
+  <div class="desc">선물 받은 옷을 착용한 김정규님</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+
+
+
 ### 1월
 
 ~~~
