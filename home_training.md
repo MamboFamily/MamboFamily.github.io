@@ -103,6 +103,25 @@ function showSlides(n) {
 
 ## 홈트 이모저모
 
+### 2024년 5월
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/may/진호우중등산.jpg">
+    <img src="/assets/images/home_training/2024/may/진호우중등산.jpg" alt="진호 우중등산" width="600" height="400">
+  </a>
+  <div class="desc">정진호님의 우중 등산</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/may/진호뜨거운커피.jpg">
+    <img src="/assets/images/home_training/2024/may/진호뜨거운커피.jpg" alt="진호 뜨거운 커피" width="600" height="400">
+  </a>
+  <div class="desc">대모산 정상에서 빗소리를 들으며 즐기는 뜨거운 커피</div>
+</div>
+
+<div style="clear: both"></div>
+~~~
+
 ### 2024년 4월
 
 ~~~
@@ -216,6 +235,41 @@ function showSlides(n) {
     <img src="/assets/images/home_training/2024/feb/자현요가2.jpg" alt="정자현님의 플라잉요가2" width="600" height="400">
   </a>
   <div class="desc">정자현님의 플라잉 요가 2</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/feb/자현요가심화1.jpg">
+    <img src="/assets/images/home_training/2024/feb/자현요가심화1.jpg" alt="정자현님의 플라잉요가 심화12" width="600" height="400">
+  </a>
+  <div class="desc">정자현님의 플라잉 요가 심화반 1</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/feb/자현요가심화2.jpg">
+    <img src="/assets/images/home_training/2024/feb/자현요가심화2.jpg" alt="정자현님의 플라잉요가 심화 2" width="600" height="400">
+  </a>
+  <div class="desc">정자현님의 플라잉 요가 심화반 2</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/feb/자현요가심화3.jpg">
+    <img src="/assets/images/home_training/2024/feb/자현요가심화3.jpg" alt="정자현님의 플라잉요가 심화 3" width="600" height="400">
+  </a>
+  <div class="desc">정자현님의 플라잉 요가 심화반 3</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/feb/자현요가심화4.jpg">
+    <img src="/assets/images/home_training/2024/feb/자현요가심화4.jpg" alt="정자현님의 플라잉요가 심화 4" width="600" height="400">
+  </a>
+  <div class="desc">정자현님의 플라잉 요가 심화반 4</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/home_training/2024/feb/자현요가심화5.jpg">
+    <img src="/assets/images/home_training/2024/feb/자현요가심화5.jpg" alt="정자현님의 플라잉요가 심화 5" width="600" height="400">
+  </a>
+  <div class="desc">정자현님의 플라잉 요가 심화반 5</div>
 </div>
 
 <div style="clear: both"></div>
