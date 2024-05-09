@@ -11,6 +11,13 @@
 ### 4월
 ~~~
 <div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/비파나무열매.jpg">
+    <img src="/assets/images/album/2024/비파나무열매.jpg" alt="비파나무 열매" width="600" height="400">
+  </a>
+  <div class="desc">샌디에고에서 주렁주렁 열린 비파나무 열매</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="/assets/images/album/2024/할아버지종보벤치.jpg">
     <img src="/assets/images/album/2024/할아버지종보벤치.jpg" alt="벤치에 앉아있는 할아버지와 박종보님" width="600" height="400">
   </a>
@@ -44,6 +51,28 @@
   </a>
   <div class="desc">멋진 폭포 앞에서 음료 한 잔</div>
 </div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/스리랑카표창장.jpg">
+    <img src="/assets/images/album/2024/스리랑카표창장.jpg" alt="스리랑카 표창장" width="600" height="400">
+  </a>
+  <div class="desc">정진호님께서 수상한 스리랑카 교육부 장관상 표창장</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/스리랑카교육부장관상.jpg">
+    <img src="/assets/images/album/2024/스리랑카교육부장관상.jpg" alt="스리랑카 교육부 장관상" width="600" height="400">
+  </a>
+  <div class="desc">정진호님께서 수상한 스리랑카 교육부 장관상 표창장</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2024/스리랑카교육부장관상메달.jpg">
+    <img src="/assets/images/album/2024/스리랑카교육부장관상메달.jpg" alt="스리랑카 교육부 장관상 메달" width="600" height="400">
+  </a>
+  <div class="desc">정진호님께서 수상한 스리랑카 교육부 장관상 메달</div>
+</div>
+
 
 <div style="clear: both"></div>
 ~~~
@@ -162,7 +191,7 @@
   <a target="_blank" href="/assets/images/album/2023/수아다나카.jpg">
     <img src="/assets/images/album/2023/수아다나카.jpg" alt="수아와 다나카" width="600" height="400">
   </a>
-  <div class="desc">수아와 친구 다나카</div>
+  <div class="desc">박수아님과 친구 다나카상</div>
 </div>
 
 <div style="clear: both"></div>
@@ -180,6 +209,18 @@
   <div class="desc">할머니의 안치단을 꾸미고 있는 정진호님</div>
 </div>
 
+
+<div style="clear: both"></div>
+~~~
+
+## 2022년
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/2022/만호수아리아샌디에고.jpg">
+    <img src="/assets/images/album/2022/만호수아리아샌디에고.jpg" alt="수아 리아 샌디에고 방문" width="600" height="400">
+  </a>
+  <div class="desc">12월 겨울 샌디에고를 방문한 박수아님과 박리아님</div>
+</div>
 
 <div style="clear: both"></div>
 ~~~

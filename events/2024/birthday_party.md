@@ -683,6 +683,24 @@ function showSlides(n) {
   <div class="desc">정진호님과 정자현님의 사진 촬영</div>
 </div>
 
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/선욱진호자현생축메세지1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">정은숙님의 생일 당일에 보내온 윤선욱님, 정진호님, 정자현님의 축하 메세지 1</div>
+</div>
+
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/events/2024/선욱진호자현생축메세지2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">정은숙님의 생일 당일에 보내온 윤선욱님, 정진호님, 정자현님의 축하 메세지 2</div>
+</div>
+
 <div style="clear: both"></div>
 ~~~
 
