@@ -154,6 +154,21 @@
 <div style="clear: both"></div>
 ~~~
 
+### 1월
+
+~~~
+div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/album/2023/진호할머니안치단장식.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">할머니의 안치단을 꾸미고 있는 정진호님</div>
+</div>
+
+
+<div style="clear: both"></div>
+~~~
 
 ## 2016년
 
