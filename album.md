@@ -171,6 +171,8 @@
   </a>
   <div class="desc">아늑한 까페에서 찰칵</div>
 </div>
+
+<div style="clear: both"></div>
 ~~~
 
 ## 댓글남기기
