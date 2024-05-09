@@ -159,15 +159,15 @@
 
 ~~~
 <div class="gallery">
-  <a target="_blank" href="/assets/images/album/2016/선욱돌다리.jpg">
-    <img src="/assets/images/album/2023/선욱돌다리.jpg" alt="돌다리에서 윤선욱님" width="600" height="400">
+  <a target="_blank" href="/assets/images/album/2016/선욱돌다리.jpeg">
+    <img src="/assets/images/album/2023/선욱돌다리.jpeg" alt="돌다리에서 윤선욱님" width="600" height="400">
   </a>
   <div class="desc">윤선욱님 돌다리에서 멋진 포즈</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/assets/images/album/2016/가족까페.jpg">
-    <img src="/assets/images/album/2023/가족까페.jpg" alt="까페에서 가족사진" width="600" height="400">
+  <a target="_blank" href="/assets/images/album/2016/가족까페.jpeg">
+    <img src="/assets/images/album/2023/가족까페.jpeg" alt="까페에서 가족사진" width="600" height="400">
   </a>
   <div class="desc">아늑한 까페에서 찰칵</div>
 </div>
