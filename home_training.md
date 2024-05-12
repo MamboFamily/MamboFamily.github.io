@@ -167,6 +167,15 @@ function showSlides(n) {
   <div class="desc">유유히 패들보드를 즐기고 계신 박선영님</div>
 </div>
 
+<div class="gallery">
+  <video width="600" height="400" controls>
+      <source src="/assets/images/home_training/2024/apr/선영패들보드.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+
+  <div class="desc">패들보드와 물아일체를 이루신 박선영님</div>
+</div>
+
 <div style="clear: both"></div>
 ~~~
 

@@ -245,6 +245,90 @@
 <div style="clear: both"></div>
 ~~~
 
+## 오래된 기억들
+
+~~~
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/점석만호대문앞.jpg">
+    <img src="/assets/images/album/old/점석만호대문앞.jpg" alt="대문 앞에서 할아버지와 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">어느 집 대문 앞에서의 할아버지와 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/만호마징가.jpg">
+    <img src="/assets/images/album/old/만호마징가.jpg" alt="마징가와 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">마징가와 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/옥순만호수아리아.jpg">
+    <img src="/assets/images/album/old/옥순만호수아리아.jpg" alt="어느 좋은 날 할머니, 정만호님, 박수아님, 박리아님, 그리고 돌아짐" width="600" height="400">
+  </a>
+  <div class="desc">어느 좋은 날 할머니, 정만호님, 박수아님, 박리아님, 그리고 돌아짐</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/옥순만호나무앞.jpg">
+    <img src="/assets/images/album/old/옥순만호나무앞.jpg" alt="할머니 앞 폼잡은 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">할머니 앞에서 폼잡는 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/옥순만호스튜디오.jpg">
+    <img src="/assets/images/album/old/옥순만호스튜디오.jpg" alt="할머니와 정만호님의 스튜디오 컷" width="600" height="400">
+  </a>
+  <div class="desc">할머니와 정만호님의 스튜디오 컷</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/만호뽀삐.jpg">
+    <img src="/assets/images/album/old/만호뽀삐.jpg" alt="애견 뽀삐를 안은 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">애견 뽀삐를 안은 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/만호스튜디오.jpg">
+    <img src="/assets/images/album/old/만호스튜디오.jpg" alt="정만호님 스튜디오 컷" width="600" height="400">
+  </a>
+  <div class="desc">정만호님 스튜디오 컷</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/옥순만호놀이터.jpg">
+    <img src="/assets/images/album/old/옥순만호놀이터.jpg" alt="놀이터에서 할머니와 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">놀이터에서 할머니와 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/진호만호엑스포.jpg">
+    <img src="/assets/images/album/old/진호만호엑스포.jpg" alt="대전 엑스포에서 정진호님과 정만호님" width="600" height="400">
+  </a>
+  <div class="desc">대전 엑스포에 놀러 간 정진호님과 정만호님</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/옥순나무앞.jpg">
+    <img src="/assets/images/album/old/옥순나무앞.jpg" alt="나무 앞에서 할머니" width="600" height="400">
+  </a>
+  <div class="desc">멋진 나무보다 더 멋진 할머니</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/album/old/가족벚꽃.jpg">
+    <img src="/assets/images/album/old/가족벚꽃.jpg" alt="벚꽃 앞 가족 사진" width="600" height="400">
+  </a>
+  <div class="desc">화사한 벚꽃 앞에서 가족 사진 한 장</div>
+</div>
+
+
+<div style="clear: both"></div>
+~~~
+
 ## 댓글남기기
 
 남기고 싶으신 이야기가 있으시면 아래에 자유롭게 남겨 주세요. github 아이디가 없으시면 아래의 정보를 이용하세요.
