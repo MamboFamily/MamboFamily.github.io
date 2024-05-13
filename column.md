@@ -16,6 +16,7 @@
 1. [콜레스테롤 수치 이해하기](/column/health/cholesterol/) - 정만호
 1. [고혈압에 가장 좋은 운동은?](/column/health/highBloodPressureExercise/) - 정만호
 1. [2020 한국인 영양소 섭취기준](/column/health/KoreanNutritionGuide) - 정만호
+1. [보리차 - 이대로 좋은가](/column/health/BarleyTea) - 정만호
 
 ## 댓글남기기
 
